@@ -1,5 +1,3 @@
-package src;
-
 public class Duplicate_Zeros_1089 {
     public void duplicateZeros(int[] arr) {
         
