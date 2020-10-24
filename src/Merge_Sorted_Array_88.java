@@ -1,5 +1,3 @@
-package src;
-
 import java.util.Arrays;
 
 public class Merge_Sorted_Array_88 {
